@@ -11,3 +11,8 @@ CUB_200_2011: [Dataset Page](https://www.vision.caltech.edu/datasets/cub_200_201
 ## ⚙️ Installation & Dependencies
 
 Ensure you have Python 3.12+ and PyTorch 2.8+ installed.
+
+🚀 Usage
+```
+python train.py
+```
