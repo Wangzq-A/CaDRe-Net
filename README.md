@@ -21,6 +21,7 @@ colorama==0.4.1
 ```
 
 🚀 Usage
+
 ```
-python train.py
+python train.py --dataset CUB  --model Conv4 --epoch 150 --n_shot 5
 ```
