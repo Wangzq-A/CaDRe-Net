@@ -1,4 +1,4 @@
-##Data Preparation
+## Data Preparation
 The following datasets are used in our paper:
 
 Stanford Dogs: [Dataset Page](http://vision.stanford.edu/aditya86/ImageNetDogs/)
