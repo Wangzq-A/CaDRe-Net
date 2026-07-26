@@ -26,3 +26,4 @@ colorama==0.4.1
 ```
 python train.py --dataset CUB  --model Conv4 --epoch 150 --n_shot 5
 ```
+All code will be made public after the paper is accepted
